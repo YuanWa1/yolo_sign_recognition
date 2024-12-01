@@ -6,7 +6,7 @@ Description: This project focuses on American Sign Language recognition techniqu
 **** Requirements ****
 
 
-Python, and other packages, html/css
+Python, and other packages 
 
 **** Getting Started ****
 
