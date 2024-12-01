@@ -13,9 +13,9 @@ Python, and other packages, html/css
 
 *** Clone the repository from this code block:
 
-*** When cloned, go to project root directory and install all dependencies
+*** When cloned, go to project root directory and install all dependencies.
 
-*** Once, all the prerequisites are complete, run the program
+*** Once, all the prerequisites are complete, run the program.
 
 
 *** Technical issues encountered ***
@@ -27,6 +27,4 @@ The model struggled to correctly recognize gestures in video sequences, to addre
 *** Improvements/ Known Problems ***
 
 
-The model struggled to correctly recognize gestures in video sequences, To address this, we plan to explore training on a dedicated video dataset in the future, aiming to enable real-time gesture recognition and translation for more practical applications.
-
-
+The model struggled to correctly recognize gestures in video sequences, To address this, we will explore video datasets. 
