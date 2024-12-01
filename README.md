@@ -11,7 +11,7 @@ Python, and other packages
 **** Getting Started ****
 
 
-*** Clone the repository from this code block:
+*** Clone the repository from this code block: https://github.com/YuanWa1/yolo_sign_recognition.git
 
 *** When cloned, go to project root directory and install all dependencies.
 
