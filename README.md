@@ -15,7 +15,7 @@ Python, and other packages
 
 *** When cloned, go to project root directory and install all dependencies.
 
-*** Once, all the prerequisites are complete, run the program.
+*** Once, all the prerequisites are complete, run the program with the testImage.py.
 
 
 *** Technical issues encountered ***
